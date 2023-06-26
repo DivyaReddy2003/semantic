@@ -1,0 +1,14 @@
+/*.color{
+    color:rgb(72, 0, 255);
+}
+.span{
+    color:brown;
+}*/
+.btc{
+    color:rgb(255, 0, 225);
+    font-size: 60px;
+    text-decoration: underline;
+}
+.offer{
+    text-decoration: line-through;
+}
